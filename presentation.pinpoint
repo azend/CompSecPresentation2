@@ -1,0 +1,53 @@
+#!/usr/bin/env pinpoint
+
+[bottom]
+[img/background.jpg]
+[fill]
+-- [duration=1.284626]
+WiFi
+
+-- [bottom] [img/guyKawasaki.jpg] [fit] [duration=1.319306]
+10 slides
+
+-- [img/channels.png] [fit] [duration=1.368302]
+
+
+-- [duration=1.551569]
+How big is WiFi?
+
+-- [fit] [img/cisco-vni-wifi-vs-wired-vs-mobile.jpg] [duration=1.465946]
+
+-- [fit] [img/solution_overview_c22-642482-02.jpg]
+
+-- [fit] [img/strategy-analytics-wifi-penetration.jpg]
+
+-- [duration=1.917548]
+Now WTF is Wardriving?
+
+-- [center] [text-align=center] [duration=1.477364]
+"Wardriving is the act of searching for
+ Wi-Fi wireless networks by a person in 
+ a moving vehicle, using a portable 
+ computer, smartphone or personal
+ digital assistant (PDA)." - Wikipedia
+
+-- [duration=1.435786]
+Now for more practical example
+
+-- [duration=1.486728]
+What can you do with this information?
+
+-- [duration=1.412329]
+Why is this important?
+
+--
+References:
+Guy Kawasaki - Guy's Google Plus page
+Definition of Wardriving - https://en.wikipedia.org/wiki/War_driving
+WiFi Channels - https://en.wikipedia.org/wiki/File:NonOverlappingChannels2.4GHzWLAN-en.svg
+Prevalence figures - Cisco and Techcrunch
+Background - pzado at sxc.hu
+
+--
+
+
